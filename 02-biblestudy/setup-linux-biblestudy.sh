@@ -1,5 +1,8 @@
 #!/bin/sh
 
+mkdir 02-biblestudy
+cd 02-biblestudy
+
 mkdir bibleprotector
 cd bibleprotector
 wget http://www.bibleprotector.com/LUL01.pdf
@@ -62,4 +65,6 @@ wget -r http://jesus-is-lord.com/
 wget -r http://jesus-is-savior.com/
 
 wget -r http://www.jesusisprecious.org/
+
+cd ../
 
