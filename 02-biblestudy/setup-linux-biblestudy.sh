@@ -48,5 +48,18 @@ cd chick
 wget https://www.chick.com/catalog/en_catalog_2017.pdf
 cd ../
 
+mkdir avpublications
+cd avpublications
+wget http://www.avpublications.com/avnew/downloads/PDF/NABV/Understanding_KJV.pdf
+wget http://www.avpublications.com/avnew/downloads/PDF/LOTKJB/chap_1.pdf -O LOTKJB_Chap_1.pdf
+wget http://www.avpublications.com/avnew/downloads/PDF/Tracts/nabv_tract.pdf
+wget http://www.avpublications.com/avnew/downloads/PDF/Tracts/NKJV_tract.pdf
+wget http://www.avpublications.com/avnew/downloads/PDF/Tracts/InAwe_tract.pdf
+cd ../
 
+wget -r http://jesus-is-lord.com/
+
+wget -r http://jesus-is-savior.com/
+
+wget -r http://www.jesusisprecious.org/
 
