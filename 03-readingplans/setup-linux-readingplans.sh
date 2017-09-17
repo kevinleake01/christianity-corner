@@ -1,5 +1,7 @@
 #!/bin/sh
 
+mkdir 03-readingplans
+cd 03-readingplans
 wget http://www.edginet.org/mcheyne/year_classic_single_a4.pdf -O mcheyne_classic_single_a4.pdf
 wget http://www.edginet.org/mcheyne/year_classic_single_letter.pdf -O mcheyne_classic_single_letter.pdf
 wget http://www.edginet.org/mcheyne/year_carson_a4.pdf -O mcheyne_carson_a4.pdf
@@ -17,4 +19,5 @@ wget http://static.crossway.org/excerpts/1581348150.1.pdf -O mcheyne_1581348150.
 wget http://mp3.biblebase.com/workmanworkshops/MCheyne.pdf -O mcheyne_biblebase.pdf
 wget http://www.esv.org/assets/pdfs/rp.one.year.tract.pdf -O ESV_oneyeartract.pdf
 wget http://www.trinitarianbiblesociety.org/site/articles/bwl.pdf -O mcheyne_tbs.pdf
+cd ../
 
