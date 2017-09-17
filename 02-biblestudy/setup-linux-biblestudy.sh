@@ -60,8 +60,6 @@ wget http://www.avpublications.com/avnew/downloads/PDF/Tracts/NKJV_tract.pdf
 wget http://www.avpublications.com/avnew/downloads/PDF/Tracts/InAwe_tract.pdf
 cd ../
 
-wget -r http://jesus-is-lord.com/
-
 wget -r http://jesus-is-savior.com/
 
 wget -r http://www.jesusisprecious.org/
