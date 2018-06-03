@@ -13,6 +13,6 @@ wget https://www.oakleys.org.uk/files/blog_files/old/mcCheyne.pdf -O mcheyne_oak
 wget http://www.wholesomewords.org/family/bibleread/sword.pdf -O mcheyne_wholesomewords.pdf
 wget http://higginslakebaptistchurch.com/wp-content/uploads/2008/04/year_classic_letter.pdf -O mcheyne_higginslake.pdf
 wget http://mp3.biblebase.com/workmanworkshops/MCheyne.pdf -O mcheyne_biblebase.pdf
-wget http://www.trinitarianbiblesociety.org/site/articles/bwl.pdf -O mcheyne_tbs.pdf
+wget https://cdn.ymaws.com/www.tbsbibles.org/resource/collection/D1B0BDBE-CD9E-4D12-BBDD-138677F98835/Bible-Word-List-and-Reading-Plan.pdf -O mcheyne_tbs.pdf
 cd ../
 
