@@ -27,4 +27,9 @@ git clone git://github.com/arleym/kjv-markdown.git 0004-arleym-markdown
 git clone git://github.com/Ayokunle/HolyBible.git 0005-ayokunie-holybible
 git clone git://github.com/tushortz/Bible.git 0006-tushortz-bible
 git clone git://github.com/dreftymac/bible_kjv_data.git 0007-dreftymac-bible-kjv-data
+git clone git://github.com/claytoncarney/offline-kjv.git 0008-claytoncarney-offline-kjv
+git clone git://github.com/kedweber/bible-kjv.git 0009-kedweber-bible-kjv
+git clone git://github.com/joshavanier/scrolls.git 0010-joshavanier-scrolls
+git clone git://github.com/michaelt/kjv.git 0011-michaelt-kjv
+git clone git://github.com/RomeuG/KJV_BIBLE_RANDOM_VERSE.git 0012-romeug-kjv-bible-random-verse
 cd ../
