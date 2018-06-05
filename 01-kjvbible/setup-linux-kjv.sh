@@ -11,6 +11,8 @@ wget http://www.bibleprotector.com/TEXT-PCE-127.txt
 wget http://www.bibleprotector.com/TEXT-PCE-127-TAB.txt
 wget http://www.Jesus-is-Lord.com/KJB-PCE13.pdf
 wget http://www.Jesus-is-Lord.com/KJB-PCE18.pdf
+wget http://www.bibleguardian.com/akj.pdf
+wget http://uploads.worldlibrary.org/uploads/pdf/20151027053828king_james_bible_pure_cambridge_edition_1_2095.pdf
 git clone git://github.com/webplantmedia/the-holy-bible.git 0001-webplantmedia-theholybible
 git clone git://github.com/psyclone241/kjv-pce-api.git 0002-psyclone241-kjv-pce-api
 git clone git://github.com/tomhoover/hisword.net.git 0003-tomhoover-hisword
