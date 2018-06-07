@@ -48,7 +48,7 @@ cd ../
 
 mkdir chick
 cd chick
-wget https://www.chick.com/catalog/en_catalog_2017.pdf
+wget https://www.chick.com/catalog/en_catalog_2018.pdf
 cd ../
 
 mkdir avpublications
