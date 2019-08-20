@@ -62,17 +62,17 @@ cd ../
 
 mkdir biblestudydownloads-org
 cd biblestudydownloads-org
-wget https://www.biblestudydownloads.org/files/eng/bs/BS%20How_to_Study_&_Teach_the_Bible-144_eng_bs_1703_v2.pdf
-wget https://www.biblestudydownloads.org/files/eng/bs/BS%20How_to_Study_the_Biblical_Genres_(Part_2)_eng_bs_8021_v2.pdf
+wget https://www.biblestudydownloads.org/files/eng/bs/BS%20How_to_Study_%26_Teach_the_Bible-144_eng_bs_1703_v2.pdf
+wget https://www.biblestudydownloads.org/files/eng/bs/BS%20How_to_Study_the_Biblical_Genres_%28Part_2%29_eng_bs_8021_v2.pdf
 wget https://www.biblestudydownloads.org/files/eng/bs/Bible_Charts_Complete_eng_bs_v1.pdf
 wget https://www.biblestudydownloads.org/files/eng/nb/NT%20Backgrounds-392_eng_nb_9154_v1.0.0.pdf
-wget https://www.biblestudydownloads.org/files/eng/ob/OT%20Backgrounds%20(Low%20Res)-587_eng_ob_7136_v1.0.0.pdf
+wget https://www.biblestudydownloads.org/files/eng/ob/OT%20Backgrounds%20%28Low%20Res%29-587_eng_ob_7136_v1.0.0.pdf
 wget https://www.biblestudydownloads.org/files/eng/ns/NT_Survey_Book_Charts-28_eng_ns_9763_v3.pdf
-wget https://www.biblestudydownloads.org/files/eng/ns/NT%20Survey%201%20Matt-2%20Cor%20(Low%20Res)-465_eng_ns_5237_v1.0.0.pdf
-wget https://www.biblestudydownloads.org/files/eng/ns/NT%20Survey%202%20Gal-Rev%20(Low%20res)-642_eng_ns_1915_v1.0.0.pdf
+wget https://www.biblestudydownloads.org/files/eng/ns/NT%20Survey%201%20Matt-2%20Cor%20%28Low%20Res%29-465_eng_ns_5237_v1.0.0.pdf
+wget https://www.biblestudydownloads.org/files/eng/ns/NT%20Survey%202%20Gal-Rev%20%28Low%20res%29-642_eng_ns_1915_v1.0.0.pdf
 wget https://www.biblestudydownloads.org/files/eng/os/OT_Survey_Book_Charts-40_eng_os_8040_v4.pdf
-wget https://www.biblestudydownloads.org/files/eng/os/OT%20Survey%201%20Gen-Est%20Low%20Res%20(19%20MB)-467.pdf
-wget https://www.biblestudydownloads.org/files/eng/os/OT%20Survey%202%20Job-Mal%20Low%20Res%20(17%20MB)-495_eng_os_4608_v2.0.pdf
+wget https://www.biblestudydownloads.org/files/eng/os/OT%20Survey%201%20Gen-Est%20Low%20Res%20%2819%20MB%29-467.pdf
+wget https://www.biblestudydownloads.org/files/eng/os/OT%20Survey%202%20Job-Mal%20Low%20Res%20%2817%20MB%29-495_eng_os_4608_v2.0.pdf
 cd ../
 
 mkdir free-biblestudy-com
