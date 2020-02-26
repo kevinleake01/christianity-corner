@@ -12,3 +12,6 @@ The Sections are as follows:<br>
 <br>
 03-readingplans --- Read through the Bible in 1 or 2 years, based on M'Cheyne.<br>
 <br>
+04-churchservices --- Various church services.<br>
+<br>
+
