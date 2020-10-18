@@ -11,7 +11,6 @@ wget http://www.bibleprotector.com/TEXT-PCE-127.txt
 wget http://www.bibleprotector.com/TEXT-PCE-127-TAB.txt
 wget http://www.Jesus-is-Lord.com/KJB-PCE13.pdf
 wget http://www.Jesus-is-Lord.com/KJB-PCE18.pdf
-wget http://www.bibleguardian.com/akj.pdf -O bibleguardian-akj.pdf
 wget https://www.jesus-is-savior.com/Bible/KJB/pce.doc -O jesus-is-savior-pce.doc
 wget https://www.jesus-is-savior.com/Bible/KJB/pce.pdf -O jesus-is-savior-pce.pdf
 wget https://www.jesus-is-savior.com/Bible/KJB/pce_minion.pdf -O jesus-is-savior-pce-minion.pdf
