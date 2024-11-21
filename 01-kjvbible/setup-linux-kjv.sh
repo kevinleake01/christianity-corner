@@ -4,23 +4,15 @@ mkdir 01-kjv-pce
 cd 01-kjv-pce
 wget http://www.Jesus-is-Lord.com/KJB-PCE13.pdf
 wget http://www.Jesus-is-Lord.com/KJB-PCE18.pdf
-wget https://www.jesus-is-savior.com/Bible/KJB/pce.doc -O jesus-is-savior-pce.doc
-wget https://www.jesus-is-savior.com/Bible/KJB/pce.pdf -O jesus-is-savior-pce.pdf
-wget https://www.jesus-is-savior.com/Bible/KJB/pce_minion.pdf -O jesus-is-savior-pce-minion.pdf
-wget http://www.studylamp.com/downloads/KJV.zip -O studylamp-kjv.zip
+wget https://www.jesus-is-savior.com/Bible/KJB/pce_minion.pdf
 wget https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/KJVPCE.zip
-git clone https://github.com/webplantmedia/the-holy-bible 0001-webplantmedia-theholybible
-git clone https://github.com/psyclone241/kjv-pce-api 0002-psyclone241-kjv-pce-api
-git clone https://github.com/tomhoover/hisword.net 0003-tomhoover-hisword
-git clone https://github.com/R4wm/sqlite3_kjv 0004-r4wm-sqlite3-kjv
-git clone https://github.com/anoxic/bibleqe 0005-anoxic-bibleqe
+git clone https://github.com/webplantmedia/the-holy-bible
 cd ../
 
 mkdir 02-other-kjv
 cd 02-other-kjv
-wget http://www.gasl.org/refbib/Bible_King_James_Version.pdf
-wget http://www.davince.com/download/kjvbible.pdf
-wget http://www.davince.com/download/kjvbiblea.pdf
+wget https://www.davince.com/download/kjvbible.pdf
+wget https://www.davince.com/download/kjvbiblea.pdf
 wget https://ebible.org/pdf/eng-kjv2006/eng-kjv2006_all.pdf
 wget https://ebible.org/pdf/eng-kjv2006/eng-kjv2006_prt.pdf
 wget https://ebible.org/pdf/eng-kjv2006/eng-kjv2006_book.pdf
